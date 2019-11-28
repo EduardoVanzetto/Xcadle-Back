@@ -1,6 +1,6 @@
 package br.edu.unisep.xcadle.domain.usecase.user;
 
-import br.edu.unisep.xcadle.domain.builder.UserBuilder;
+import br.edu.unisep.xcadle.domain.builder.user.UserBuilder;
 import br.edu.unisep.xcadle.domain.dto.user.NewUserDto;
 import br.edu.unisep.xcadle.model.repository.UserRepository;
 import lombok.AllArgsConstructor;

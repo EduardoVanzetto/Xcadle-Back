@@ -1,4 +1,4 @@
-package br.edu.unisep.xcadle.domain.builder;
+package br.edu.unisep.xcadle.domain.builder.user;
 
 import br.edu.unisep.xcadle.domain.dto.user.NewUserDto;
 import br.edu.unisep.xcadle.domain.dto.user.UserDto;
